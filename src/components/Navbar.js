@@ -5,7 +5,11 @@ function Navbar() {
       <div class="App">
   
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+<<<<<<< HEAD
               <a className="navbar-brand" href="#"> Autism App</a>
+=======
+              <a className="navbar-brand" href="#"></a>
+>>>>>>> 6c7d9a739a0004f6669f8c3f2948741d071e367e
               <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
               </button>
